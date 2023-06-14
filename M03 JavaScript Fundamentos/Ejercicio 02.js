@@ -1,7 +1,7 @@
 /*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
 /*2️⃣ EJERCICIO 02 2️⃣*/
 
-function devolverString(string) {
+function devolverString(asd) {
    // Debe retornar un string.
    // Tu código:
 }
