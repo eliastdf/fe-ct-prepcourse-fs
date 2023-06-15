@@ -20,17 +20,11 @@ function tienenMismaLongitud(str1, str2) {
    // De lo contrario, retorna false.
    // Tu código:
    
-   if(str1.length == str2.lenght)
-   {
+   if(str1.length == str2.length){
       return true;
-   }
-   else
-   {
+   }else{
       return false;
    }
-
-   tienenMismaLongitud.length
-
 }
 
 function menosQueNoventa(num) {
@@ -68,8 +62,7 @@ function esPar(num) {
    // De lo contrario, retorna false.
    // Tu código:
    
-   if(num / 2 == 0)
-   {
+   if(num % 2 == 0){
       return true;
    }
    else
@@ -82,12 +75,9 @@ function esImpar(num) {
    // Retorna true si "num" es impar.
    // De lo contrario, retorna false.
    // Tu código:
-   if(num / 2 !=0)
-   {
+   if(num % 2 !== 0){
       return true;
-   }
-   else
-   {
+   }else{
       return false;
    }
 }
